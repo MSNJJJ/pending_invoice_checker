@@ -1,0 +1,9 @@
+# 业务报告（含真实订单号/税号，不入库）
+reports/*.md
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 临时文件
+*.tmp
